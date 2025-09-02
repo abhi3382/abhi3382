@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **abhi002sv@gmail.com**
 
+- 📖 Research papers -
+An Efficient Method for Disaster Tweets Classification using Gradient-Based Optimized Convolutional Neural Networks with BERT embeddings: https://www.sciencedirect.com/science/article/pii/S2215016124002966
+
+Enhancing Online Job Posting Security: A Big Data Approach to Fraud Detection - IEEE:
+https://ieeexplore.ieee.org/document/10474243
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Hf45Q8OrOM39MCNuhkiAwoEeSplmyf4a/view?usp=sharing](https://drive.google.com/file/d/1Hf45Q8OrOM39MCNuhkiAwoEeSplmyf4a/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
